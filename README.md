@@ -1,2 +1,2 @@
 # springboot Login And Registration With MySQL Basic HTML design
- Easisest and only important code to develop a login and registeration aplication 
+ very basic code demo for creat a user (registation), login and connect the MySql DB
